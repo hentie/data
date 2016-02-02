@@ -1,0 +1,41 @@
+- date: 2 feb 2016
+  title: Feb Meetup
+  description: blah
+  registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
+  sessions:
+  - from: 2 feb 2016 10:15 AM
+    to: 2 feb 2016 10:20 AM
+    title: Test talk
+    speaker: Fanie Reynders
+    videoUrl: http://a.com
+    description: blah bla test
+  - from: 2 feb 2016 10:30 AM
+    to: 2 feb 2016 11:32 PM
+    title: Test talk 2
+    speaker: Fanie Reynders
+    description: blah bla test 2
+    videoUrl: http://b.com
+  - from: 2 feb 2016 10:35 AM
+    to: 2 feb 2016 11:37 PM
+    title: Test talk 2
+    speaker: Fanie Reynders
+    description: blah bla test 2
+    videoUrl: https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0
+
+- date: 2 mar 2016
+  title: March Meetup
+  description: blah
+  registerUrl: http://bbb.com
+  sessions:
+  - from: 2 mar 2016 10:10 AM
+    to: 2 mar 2016 11:00 AM
+    title: Test talk xxx
+    speaker: Fanie Reynders
+    description: blah bla test
+    videoUrl: http://c.com
+  - from: 2 mar 2016 11:52 AM
+    to: 2 mar 2016 12:00 PM
+    title: Test talk xxx 2
+    speaker: Fanie Reynders
+    description: blah bla test 2
+    videoUrl: http://d.com
