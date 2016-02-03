@@ -10,6 +10,7 @@
     speaker: Fanie Reynders
     videoUrl: http://a.com
     description: blah bla test
+    slides: 94c14e38a54741c58e643bf22cd1119d
   - id: 2feb2016.2
     from: 2 feb 2016 10:30 AM
     to: 2 feb 2016 11:32 PM
@@ -17,6 +18,7 @@
     speaker: Fanie Reynders
     description: blah bla test 2
     videoUrl: http://b.com
+    slides: 94c14e38a54741c58e643bf22cd1119d
   - id: 2feb2016.3
     from: 2 feb 2016 10:35 AM
     to: 2 feb 2016 11:37 PM
