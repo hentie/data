@@ -4,7 +4,7 @@
   description: 	It's obvious that APIs are everywhere. Providers of these APIs need a robust solution to accelerate adoption and increase usability of their APIs. Fanie Reynders talks about how you can use Azure API Management to quickly centralize any existing backend services, giving them a modern edge with useful analytics, a developer portal and added security that creates a first-class developer experience, which is essential to attract and retain developers on your platform.
   rsvp: 		    https://www.eventbrite.com/e/modernize-your-backend-with-azure-api-managment-tickets-15107285297
   completed: 		true
-  video: 		 PRdQQum2sEU
+  videoId: 		 PRdQQum2sEU
   onHome:       true
   pageId:       modernize-your-backend-with-azure-api-management
 
@@ -15,7 +15,7 @@
   rsvp: 		    https://www.eventbrite.com/e/demystifying-big-data-registration-15395189426
   completed: 		true
   onHome:       true
-  video:        cXLtHEegR54
+  videoId:        cXLtHEegR54
   pageId:       demystifying-big-data
 
 - title: 		Getting started with Android Game Development
@@ -26,7 +26,7 @@
   completed: 		true
   onHome:       true
   liveUrl:  http://www.crowdcast.io/e/fixxup-2015-3
-  video:  SCrZ6QcwBHA
+  videoId:  SCrZ6QcwBHA
   pageId:       getting-started-with-android-game-development
 
 - title: 		A lap around Chrome apps and extensions
@@ -37,7 +37,7 @@
   completed: 		true
   onHome:       true
   liveUrl:  http://www.crowdcast.io/e/fixxup-2015-4
-  video:  -MUv4hYnEWI
+  videoId:  -MUv4hYnEWI
   pageId: a-lap-around-chrome-apps-and-extensions
 
 - title: 		Introduction to F#
@@ -47,7 +47,7 @@
   rsvp: 		https://www.eventbrite.com/e/introduction-to-f-registration-16725419179
   liveUrl:  http://www.crowdcast.io/e/fixxup-2015-5
   completed: 		true
-  video: 80aZXc7N1P8
+  videoId: 80aZXc7N1P8
   onHome: false
   pageId: introduction-to-fsharp
   sourceCode: https://github.com/Fixxup/fixxup2015-5
@@ -59,7 +59,7 @@
   rsvp: 		http://www.eventbrite.com/e/lets-collaborate-with-office-365-registration-17150289979
   completed: 		true
   onHome: true
-  video: TK_BlmtSatQ
+  videoId: TK_BlmtSatQ
   pageId: lets-collaborate-with-office-365
   liveUrl:  https://www.youtube.com/watch?v=TK_BlmtSatQ
 
@@ -69,7 +69,7 @@
   description: 	"We go on a journey on what's new in .NET 2015 and explore all the various components available on the platform like .NET Core, .NET Native, .NET 4.6, Roslyn, ASP.NET 5, C# 6 and others."
   rsvp: 		https://www.eventbrite.com/e/net-2015-the-next-generation-open-ecosystem-registration-17439470927
   completed: 		true
-  video: PbbKahUDNyY
+  videoId: PbbKahUDNyY
   onHome: true
   pageId: net-2015-the-next-generation-open-ecosystem
   liveUrl:  https://www.youtube.com/watch?v=PbbKahUDNyY
@@ -83,7 +83,7 @@
   onHome: true
   liveUrl: https://www.youtube.com/watch?v=vDlnuHL87Gg
   pageId: be-a-ninja-with-nodejs
-  video: vDlnuHL87Gg
+  videoId: vDlnuHL87Gg
 
 - title: 		Exploring Azure App Service
   date: 		2015-09-17
@@ -93,7 +93,7 @@
   rsvp:   "https://www.eventbrite.com/e/exploring-azure-app-service-registration-18360634151"
   onHome: true
   liveUrl: https://www.youtube.com/watch?v=eHqwgbspZWc
-  video: eHqwgbspZWc
+  videoId: eHqwgbspZWc
   pageId: exploring-azure-app-service
   
 - title: 		Scrum in theory, Scrum in practice
@@ -103,7 +103,7 @@
   onHome: true
   completed: 		true
   liveUrl: http://youtu.be/Tlafi7Rna9s
-  video: Tlafi7Rna9s
+  videoId: Tlafi7Rna9s
   rsvp:   "https://www.eventbrite.com/e/scrum-in-theory-scrum-in-practise-registration-18697355293"
   pageId: scrum-in-theory-scrum-in-practice
   
@@ -115,7 +115,7 @@
   completed: 		true
   rsvp:   "https://www.eventbrite.com/e/a-deep-dive-in-creating-office-add-ins-registration-19254491703"
   liveUrl: //www.youtube.com/embed/SVOEBSSQ1jg?autoplay=1
-  video: SVOEBSSQ1jg
+  videoId: SVOEBSSQ1jg
   onHome: true
   pageId: deep-dive-in-creating-office-addins
 
