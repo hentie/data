@@ -16,3 +16,9 @@
   author: Some guy1
   title: Testing Blog Post 2
   abstract: bla
+  
+- date: 3 Feb 2016
+  postId: test
+  author: Robert-Jan Kuyper
+  title: Test
+  abstract: Hallo
