@@ -8,7 +8,7 @@
     to: 2 feb 2016 10:20 AM
     title: Test talk
     speaker: Fanie Reynders
-    videoUrl: //www.youtube.com/embed/eHqwgbspZWc
+    videoId: eHqwgbspZWc
     description: blah bla test
     slidesId: 94c14e38a54741c58e643bf22cd1119d
   - id: 2feb2016.2
@@ -17,7 +17,7 @@
     title: Test talk 2
     speaker: Fanie Reynders
     description: blah bla test 2
-    videoUrl: http://b.com
+    videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
   - id: 2feb2016.3
     from: 2 feb 2016 10:35 AM
@@ -25,7 +25,7 @@
     title: Test talk 2
     speaker: Fanie Reynders
     description: blah bla test 2
-    videoUrl: https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0
+    videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
     
 - date: 2 mar 2016
@@ -39,7 +39,7 @@
     title: Test talk xxx
     speaker: Fanie Reynders
     description: blah bla test
-    videoUrl: http://c.com
+    videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
   - id: 2mar2016.2
     from: 2 mar 2016 11:52 AM
@@ -47,5 +47,5 @@
     title: Test talk xxx 2
     speaker: Fanie Reynders
     description: blah bla test 2
-    videoUrl: http://d.com
+    videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
