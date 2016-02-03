@@ -1,0 +1,121 @@
+- title:        Modernize your backend with Azure API Management 
+  date: 		    2015-01-15
+  speaker:      Fanie Reynders
+  description: 	It's obvious that APIs are everywhere. Providers of these APIs need a robust solution to accelerate adoption and increase usability of their APIs. Fanie Reynders talks about how you can use Azure API Management to quickly centralize any existing backend services, giving them a modern edge with useful analytics, a developer portal and added security that creates a first-class developer experience, which is essential to attract and retain developers on your platform.
+  rsvp: 		    https://www.eventbrite.com/e/modernize-your-backend-with-azure-api-managment-tickets-15107285297
+  completed: 		true
+  video: 		 PRdQQum2sEU
+  onHome:       true
+  pageId:       modernize-your-backend-with-azure-api-management
+
+- title:        Demystifying Big Data
+  date: 		    2015-02-19
+  speaker: 	    GW Smit
+  description: 	A closer look at what Big Data really is, its evolutionary process (how we got to this point) and the role it plays in modern Data Analytics, Business Intelligence and Big Data cloud services.
+  rsvp: 		    https://www.eventbrite.com/e/demystifying-big-data-registration-15395189426
+  completed: 		true
+  onHome:       true
+  video:        cXLtHEegR54
+  pageId:       demystifying-big-data
+
+- title: 		Getting started with Android Game Development
+  date: 		2015-03-19
+  speaker: 		Regardt Van der Vyver
+  description: Developing games can become quite complex, especially if you have that great idea but don't know where to begin to start implementing it. Regardt Van der Vyver takes us through the basic process of Android game development and outlines the a standard workflow that would guarantee successful delivery of your project. Bring your laptops along and be part of the journey of creating an awesome game!
+  rsvp: 		https://www.eventbrite.com/e/getting-started-with-android-game-development-registration-15907633159
+  completed: 		true
+  onHome:       true
+  liveUrl:  http://www.crowdcast.io/e/fixxup-2015-3
+  video:  SCrZ6QcwBHA
+  pageId:       getting-started-with-android-game-development
+
+- title: 		A lap around Chrome apps and extensions
+  date: 		2015-04-23
+  speaker: 		Fanie Reynders
+  description: 	Google Chrome is built with extensibility in mind, allowing us to create fantastic apps and extensions for the platform in HTML5, JavaScript and CSS. Although modern web technologies are used, Chrome apps look and behave just like native apps with native capabilities. Fanie Reynders unveils how easy it is to create these apps and extensions for this powerful browser.
+  rsvp: 		https://www.eventbrite.com/e/a-lap-around-chrome-apps-and-extensions-registration-16274886624
+  completed: 		true
+  onHome:       true
+  liveUrl:  http://www.crowdcast.io/e/fixxup-2015-4
+  video:  -MUv4hYnEWI
+  pageId: a-lap-around-chrome-apps-and-extensions
+
+- title: 		Introduction to F#
+  date: 		2015-05-21
+  speaker: 		Johan Welgemoed
+  description: 	We take a look at the multi-paradigm programming language F# and why you may want to use it in your next project. 
+  rsvp: 		https://www.eventbrite.com/e/introduction-to-f-registration-16725419179
+  liveUrl:  http://www.crowdcast.io/e/fixxup-2015-5
+  completed: 		true
+  video: 80aZXc7N1P8
+  onHome: false
+  pageId: introduction-to-fsharp
+  sourceCode: https://github.com/Fixxup/fixxup2015-5
+
+- title: 		Let's collaborate with Office 365
+  date: 		2015-06-18
+  speaker: 		Cecil Du Toit
+  description: 	Cecil Du Toit outlines an introduction to the Microsoft Office 365 platform. All features are discussed on how both developers and end-users can take advantage of this platform.
+  rsvp: 		http://www.eventbrite.com/e/lets-collaborate-with-office-365-registration-17150289979
+  completed: 		true
+  onHome: true
+  video: TK_BlmtSatQ
+  pageId: lets-collaborate-with-office-365
+  liveUrl:  https://www.youtube.com/watch?v=TK_BlmtSatQ
+
+- title: 		".NET 2015: The next generation open ecosystem"
+  date: 		2015-07-16
+  speaker: 		Fanie Reynders
+  description: 	"We go on a journey on what's new in .NET 2015 and explore all the various components available on the platform like .NET Core, .NET Native, .NET 4.6, Roslyn, ASP.NET 5, C# 6 and others."
+  rsvp: 		https://www.eventbrite.com/e/net-2015-the-next-generation-open-ecosystem-registration-17439470927
+  completed: 		true
+  video: PbbKahUDNyY
+  onHome: true
+  pageId: net-2015-the-next-generation-open-ecosystem
+  liveUrl:  https://www.youtube.com/watch?v=PbbKahUDNyY
+ 
+- title: 		Be a ninja with Node.js
+  date: 		2015-08-27
+  speaker: 		Cecil Du Toit
+  description: 	In this session Cecil Du Toit gives an introduction to Node.js and showscases all the possibilities using the platform.
+  completed: 		true
+  rsvp:   "https://www.eventbrite.com/e/be-a-ninja-with-nodejs-registration-17892596237"
+  onHome: true
+  liveUrl: https://www.youtube.com/watch?v=vDlnuHL87Gg
+  pageId: be-a-ninja-with-nodejs
+  video: vDlnuHL87Gg
+
+- title: 		Exploring Azure App Service
+  date: 		2015-09-17
+  speaker: 		Fanie Reynders
+  description: 	"One of the many cloud offerings from Microsoft Azure is the exciting new Azure App Service: It is the only cloud service that integrates everything you need to get you started in a flash to build scalable web- and mobile apps for any platform and any device." 
+  completed: 		true
+  rsvp:   "https://www.eventbrite.com/e/exploring-azure-app-service-registration-18360634151"
+  onHome: true
+  liveUrl: https://www.youtube.com/watch?v=eHqwgbspZWc
+  video: eHqwgbspZWc
+  pageId: exploring-azure-app-service
+  
+- title: 		Scrum in theory, Scrum in practice
+  date: 		2015-10-15
+  speaker: 		Tanya Fouché & Kolie van Staden
+  description: 	After Tanya Fouché gives us an overview of the theory behind Scrum, Kolie van Staden will present a practical example of a Scrum implementation at an Enterprise Level.
+  onHome: true
+  completed: 		true
+  liveUrl: http://youtu.be/Tlafi7Rna9s
+  video: Tlafi7Rna9s
+  rsvp:   "https://www.eventbrite.com/e/scrum-in-theory-scrum-in-practise-registration-18697355293"
+  pageId: scrum-in-theory-scrum-in-practice
+  
+  
+- title: 		A deep dive in creating Office add-ins
+  date: 		2015-12-10
+  speaker: 		Cecil Du Toit
+  description: 	In this session, we will deep dive into the creation of Office Add-ins for Word, Excel and Outlook. This new development model allows anybody to extend the Office applications using Html and JavaScript or any other server-side programming language. Your add-ins can be used on the desktop, web online and tablet versions of Office.
+  completed: 		true
+  rsvp:   "https://www.eventbrite.com/e/a-deep-dive-in-creating-office-add-ins-registration-19254491703"
+  liveUrl: //www.youtube.com/embed/SVOEBSSQ1jg?autoplay=1
+  video: SVOEBSSQ1jg
+  onHome: true
+  pageId: deep-dive-in-creating-office-addins
+
