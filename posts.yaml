@@ -1,12 +1,12 @@
 - date: 2 Feb 2016
-  content: test-post.md
+  postId: test-post.md
   author: Fanie Reynders
   title: Testing Blog Post
   abstract: test123
   sessionId: 2feb2016.1
 
 - date: 3 Feb 2016
-  content: test-post2.md
+  postId: test-post2.md
   author: Fanie Reynders
   title: Testing Blog Post 2
   abstract: bla
