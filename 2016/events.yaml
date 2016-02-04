@@ -6,12 +6,12 @@
   sessions:
   - id: 2feb2016.1
     start: 2 feb 2016 10:15 AM
-    title: Test talk
+    title: Test Talk 1
     speaker: Fanie Reynders
     videoId: eHqwgbspZWc
     description: blah bla test test
     slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: true
+    completed: false
     
   - id: 2feb2016.2
     start: 2 feb 2016 10:30 AM
@@ -24,7 +24,7 @@
     
   - id: 2feb2016.3
     start: 2 feb 2016 10:35 AM
-    title: Test talk 2
+    title: Test talk 3
     speaker: Fanie Reynders
     description: blah bla test 2
     videoId: eHqwgbspZWc
@@ -40,7 +40,7 @@
   sessions:
   - id: 2mar2016.1
     start: 2 mar 2016 10:10 AM
-    title: Test talk xxx
+    title: Test talk 4
     speaker: Fanie Reynders
     description: blah bla test
     videoId: eHqwgbspZWc
@@ -49,7 +49,7 @@
     
   - id: 2mar2016.2
     start: 2 mar 2016 11:52 AM
-    title: Test talk xxx 2
+    title: Test talk 5
     speaker: Fanie Reynders
     description: blah bla test 2
     videoId: eHqwgbspZWc
