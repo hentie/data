@@ -1,51 +1,55 @@
-- date: 2 feb 2016
-  title: Feb Meetup
+- title: Feb Meetup
   description: blah
   registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
+  
   sessions:
   - id: 2feb2016.1
-    from: 2 feb 2016 10:15 AM
-    to: 2 feb 2016 10:20 AM
+    start: 2 feb 2016 10:15 AM
     title: Test talk
     speaker: Fanie Reynders
     videoId: eHqwgbspZWc
     description: blah bla test test
     slidesId: 94c14e38a54741c58e643bf22cd1119d
+    completed: true
+    
   - id: 2feb2016.2
-    from: 2 feb 2016 10:30 AM
-    to: 2 feb 2016 11:32 PM
+    start: 2 feb 2016 10:30 AM
     title: Test talk 2
     speaker: Fanie Reynderz
     description: blah bla test 2
     videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
+    completed: false
+    
   - id: 2feb2016.3
-    from: 2 feb 2016 10:35 AM
-    to: 2 feb 2016 11:37 PM
+    start: 2 feb 2016 10:35 AM
     title: Test talk 2
     speaker: Fanie Reynders
     description: blah bla test 2
     videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
+    completed: false
     
-- date: 2 mar 2016
-  title: March Meetup
+    
+- title: March Meetup
   description: blah
   registerUrl: http://bbb.com
+  
   sessions:
   - id: 2mar2016.1
-    from: 2 mar 2016 10:10 AM
-    to: 2 mar 2016 11:00 AM
+    start: 2 mar 2016 10:10 AM
     title: Test talk xxx
     speaker: Fanie Reynders
     description: blah bla test
     videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
+    completed: false
+    
   - id: 2mar2016.2
-    from: 2 mar 2016 11:52 AM
-    to: 2 mar 2016 12:00 PM
+    start: 2 mar 2016 11:52 AM
     title: Test talk xxx 2
     speaker: Fanie Reynders
     description: blah bla test 2
     videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
+    completed: false
