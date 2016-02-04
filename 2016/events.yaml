@@ -4,54 +4,21 @@
   registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
   
   sessions:
-  - id: 2feb2016.1
-    start: 2 feb 2016 10:15 AM
-    title: Test Talk 1
-    speaker: Fanie Reynders
-    videoId: eHqwgbspZWc
-    description: blah bla test test
-    slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: true
+  - id: 23mar2016.1
+    start: 23 Mar 2016 19:00
+    title: Running Windows 10 IoT Core on a Raspberry Pi
+    speaker: Marcel Meijer
+    videoId: 
+    description: todo
+    slidesId: 
+    completed: false
     
-  - id: 2feb2016.2
-    start: 2 feb 2016 10:30 AM
-    title: Test talk 2
+  - id: 23mar2016.2
+    start: 23 Mar 2016 19:45 AM
+    title: ASP.NET MVC Core 1.0: The new kid on the block
     speaker: Fanie Reynderz
-    description: blah bla test 2
-    videoId: eHqwgbspZWc
-    slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: true
-    
-  - id: 2feb2016.3
-    start: 2 feb 2016 10:35 AM
-    title: Test talk 3
-    speaker: Fanie Reynders
-    description: blah bla test 2
-    videoId: eHqwgbspZWc
-    slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: true
-    
-    
-- date: 2 Mar 2016
-  title: March Meetup
-  description: blah
-  registerUrl: http://bbb.com
-  
-  sessions:
-  - id: 2mar2016.1
-    start: 2 mar 2016 10:10 AM
-    title: Test talk 4
-    speaker: Fanie Reynders
-    description: blah bla test
-    videoId: eHqwgbspZWc
-    slidesId: 94c14e38a54741c58e643bf22cd1119d
+    description: todo
+    videoId: 
+    slidesId: 
     completed: false
     
-  - id: 2mar2016.2
-    start: 2 mar 2016 11:52 AM
-    title: Test talk 5
-    speaker: Fanie Reynders
-    description: blah bla test 2
-    videoId: eHqwgbspZWc
-    slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: false
