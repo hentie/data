@@ -14,7 +14,7 @@
     videoId: .
     description: todo
     slidesId: .
-    completed: false
+    completed: true
 
   - timeslot: 19:45 - 20:00
     title: Pauze
