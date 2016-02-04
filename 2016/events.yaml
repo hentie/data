@@ -4,21 +4,30 @@
   registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
   
   sessions:
+  - timeslot: 18:45 - 19:00
+    title: Aanvang
+    
   - id: 23mar2016.1
-    start: 23 Mar 2016 19:00
+    timeslot: 19:00 - 19:45
     title: Running Windows 10 IoT Core on a Raspberry Pi
     speaker: Marcel Meijer
     videoId: .
     description: todo
     slidesId: .
     completed: false
+
+  - timeslot: 19:45 - 20:00
+    title: Break
     
   - id: 23mar2016.2
-    start: 23 Mar 2016 19:45
+    timeslot: 20:00 - 20:45
     title: "ASP.NET MVC Core 1.0: The new kid on the block"
     speaker: Fanie Reynders
     description: todo
     videoId: .
     slidesId: .
     completed: false
+
+  - timeslot: 20:45 - 21:00
+    title: Borrel (cashbar)
     
