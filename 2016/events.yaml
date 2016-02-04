@@ -1,6 +1,6 @@
-- date: 2 Feb 2016
-  title: Feb Meetup
-  description: blah
+- date: 23 Mar 2016
+  title: March Meetup
+  description: An evening filled with Windows IoT Core on Raspberry Pi and ASP.NET MVC 6
   registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
   
   sessions:
