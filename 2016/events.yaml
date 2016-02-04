@@ -20,7 +20,7 @@
     description: blah bla test 2
     videoId: eHqwgbspZWc
     slidesId: 94c14e38a54741c58e643bf22cd1119d
-    completed: false
+    completed: true
     
   - id: 2feb2016.3
     start: 2 feb 2016 10:35 AM
