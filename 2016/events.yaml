@@ -1,31 +1,31 @@
-- date: 23 Mar 2016 19:00
+- date: 24 Mar 2016
   title: March Meetup
   description: Een gratis seminar over Windows IoT Core, Raspberry Pi & ASP.NET MVC 6
-  registerUrl: "//eventbrite.com/tickets-external?eid=20710793541&ref=etckt"
+  registerUrl: 
   
   sessions:
   - timeslot: 18:45 - 19:00
     title: Aanvang
     
-  - id: 23mar2016.1
+  - id: 24mar2016.1
     timeslot: 19:00 - 19:45
     title: Running Windows 10 IoT Core on a Raspberry Pi
     speaker: Marcel Meijer
-    videoId: .
-    description: todo
-    slidesId: .
+    videoId: 
+    description: 
+    slidesId: 
     completed: false
 
   - timeslot: 19:45 - 20:00
     title: Pauze
     
-  - id: 23mar2016.2
+  - id: 24mar2016.2
     timeslot: 20:00 - 20:45
     title: "ASP.NET MVC Core 1.0: The new kid on the block"
     speaker: Fanie Reynders
-    description: todo
-    videoId: .
-    slidesId: .
+    description: 
+    videoId: 
+    slidesId: 
     completed: false
 
   - timeslot: 20:45 - 21:00
