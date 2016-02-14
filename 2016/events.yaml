@@ -7,7 +7,7 @@
   - timeslot: 18:45 - 19:00
     title: Aanvang
     
-  - id: 24mar2016.1
+  - id: 2016.1
     timeslot: 19:00 - 19:45
     title: IoT with Microsoft Windows 10
     speaker: Marcel Meijer
@@ -19,11 +19,143 @@
   - timeslot: 19:45 - 20:00
     title: Pauze
     
-  - id: 24mar2016.2
+  - id: 2016.2
     timeslot: 20:00 - 20:45
     title: "ASP.NET MVC Core 1.0: The new kid on the block"
     speaker: Fanie Reynders
     description: So much exciting stuff has happened with ASP.NET lately. In this session Fanie Reynders focuses on ASP.NET MVC Core 1, a brand new framework for the next generation of the .NET Platform, and teaches us how you can quickly get on-board using it - even your current MVC & Web API knowledge.
+    videoId: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 20:45 - 21:00
+    title: Borrel
+
+- date: 26 May 2016
+  title: May Meetup
+  description: T.B.A.
+  registerUrl: 
+  
+  sessions:
+  - timeslot: 18:45 - 19:00
+    title: Aanvang
+    
+  - id: 2016.3
+    timeslot: 19:00 - 19:45
+    title: 
+    speaker: 
+    videoId: 
+    description: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 19:45 - 20:00
+    title: Pauze
+    
+  - id: 2016.4
+    timeslot: 20:00 - 20:45
+    title: 
+    speaker: 
+    description: 
+    videoId: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 20:45 - 21:00
+    title: Borrel
+
+- date: 28 Jul 2016
+  title: July Meetup
+  description: T.B.A.
+  registerUrl: 
+  
+  sessions:
+  - timeslot: 18:45 - 19:00
+    title: Aanvang
+    
+  - id: 2016.5
+    timeslot: 19:00 - 19:45
+    title: 
+    speaker: 
+    videoId: 
+    description: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 19:45 - 20:00
+    title: Pauze
+    
+  - id: 2016.6
+    timeslot: 20:00 - 20:45
+    title: 
+    speaker: 
+    description: 
+    videoId: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 20:45 - 21:00
+    title: Borrel
+    
+- date: 22 Sep 2016
+  title: September Meetup
+  description: T.B.A.
+  registerUrl: 
+  
+  sessions:
+  - timeslot: 18:45 - 19:00
+    title: Aanvang
+    
+  - id: 2016.7
+    timeslot: 19:00 - 19:45
+    title: 
+    speaker: 
+    videoId: 
+    description: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 19:45 - 20:00
+    title: Pauze
+    
+  - id: 2016.8
+    timeslot: 20:00 - 20:45
+    title: 
+    speaker: 
+    description: 
+    videoId: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 20:45 - 21:00
+    title: Borrel
+
+- date: 17 Nov 2016
+  title: November Meetup
+  description: T.B.A.
+  registerUrl: 
+  
+  sessions:
+  - timeslot: 18:45 - 19:00
+    title: Aanvang
+    
+  - id: 2016.9
+    timeslot: 19:00 - 19:45
+    title: 
+    speaker: 
+    videoId: 
+    description: 
+    slidesId: 
+    completed: false
+
+  - timeslot: 19:45 - 20:00
+    title: Pauze
+    
+  - id: 2016.10
+    timeslot: 20:00 - 20:45
+    title: 
+    speaker: 
+    description: 
     videoId: 
     slidesId: 
     completed: false
