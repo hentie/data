@@ -1,10 +1,3 @@
-- name: Fanie Reynders
-  title: Software Developer
-  twitter: FanieReynders
-  blogUrl: http://reynders.co
-  imageUrl: http://reynders.co/content/images/2015/12/20150816_184719000_iOS.jpg
-  bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and Microsoft Visual Studio & Development Technologies MVP
-  
 - name: Marcel Meijer
   title: Development Team Lead
   twitter: MarcelMeijer
@@ -25,5 +18,13 @@
   blogUrl: http://bittacklr.be/
   imageUrl: https://pbs.twimg.com/profile_images/697900517725491201/EYxWWCUi.jpg
   bio: Software moulder. Deep thinker. Belgian Beer addict. BBQ fanboy. Son of a beach.
+
+- name: Fanie Reynders
+  title: Software Developer
+  twitter: FanieReynders
+  blogUrl: http://reynders.co
+  imageUrl: http://reynders.co/content/images/2015/12/20150816_184719000_iOS.jpg
+  bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and Microsoft Visual Studio & Development Technologies MVP
+  
   
   
