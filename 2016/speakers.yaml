@@ -1,8 +1,29 @@
 - name: Fanie Reynders
-  title: Software developer
-  twitter: faniereynders
+  title: Software Developer
+  twitter: FanieReynders
   blogUrl: http://reynders.co
   imageUrl: http://reynders.co/content/images/2015/12/20150816_184719000_iOS.jpg
-  bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and the happiest .NET MVP
+  bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and Microsoft Visual Studio & Development Technologies MVP
   
+- name: Marcel Meijer
+  title: Development Team Lead
+  twitter: MarcelMeijer
+  blogUrl: http://blog.marcelmeijer.net
+  imageUrl: https://mvp.microsoft.com/en-us/PublicProfile/Photo/4029228
+  bio: "Al meer dan 20 jaar begeeft deze 46 jarige zich in de wereld van de ICT. Op dit moment houdt hij zich voornamelijk bezig met Microsoft Azure, Cloud, C#, Software Ontwikkeling, Architectuur, Windows 10 en IoT."
+  
+- name: Pieter Joost van de Sande
+  title: Software Engineer
+  twitter: pjvds
+  blogUrl: http://born2code.net/
+  imageUrl: http://born2code.net/assets/img/pieterjoostvandesande.png
+  bio: "@golang hacker, boardmember at Devnology, Microsoft C# MVP, speaker extravaganza, paleo, barefoot runner"
 
+- name: Yves Reynhout
+  title: Technical Team Lead
+  twitter: yreynhout
+  blogUrl: http://bittacklr.be/
+  imageUrl: https://pbs.twimg.com/profile_images/697900517725491201/EYxWWCUi.jpg
+  bio: Software moulder. Deep thinker. Belgian Beer addict. BBQ fanboy. Son of a beach.
+  
+  
