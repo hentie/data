@@ -34,7 +34,7 @@
 - date: 26 May 2016 19:00
   title: May Meetup
   description: Testing & Design challenges
-  registerUrl: 
+  registerUrl: http://www.meetup.com/fixxup/events/229221253/
   
   sessions:
   - timeslot: 18:45 - 19:00
@@ -45,7 +45,7 @@
     title: Testing... What?
     speaker: Ryan Fester
     videoId: 
-    description: An open discussion on the different types of testing,  best practices and their place in agile methodologies and the development lifecycle in general.
+    description: An open discussion on the different types of testing,  best practices and their place in agile methodologies and the development life cycle in general.
     slidesId: 
     completed: false
 
