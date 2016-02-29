@@ -33,7 +33,7 @@
 
 - date: 26 May 2016 19:00
   title: May Meetup
-  description: T.B.A.
+  description: Testing & Design challenges
   registerUrl: 
   
   sessions:
@@ -54,9 +54,9 @@
     
   - id: 2016.4
     timeslot: 20:00 - 20:45
-    title: 
-    speaker: 
-    description: 
+    title: Design Challenges
+    speaker: Yves Reynhout
+    description: As developers, from time to time, we have to solve complex problems for our clients/customers - the good, the bad and the ugly designs we end up with do not often see the light of day. This whiteboard talk will show you some concrete problems, how their solutions were designed, why some models wouldn't have worked and others did, leaving you with insight that might help you in your next design challenges.
     videoId: 
     slidesId: 
     completed: false
