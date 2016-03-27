@@ -14,7 +14,7 @@
     videoId: Ez21afJSy20
     description: IoT is everywhere and it will be used in more occasions; cars, houses, entertaining systems etc. There are different platforms for this, but Microsoft has started to a whole new ecosystem. In this session Marcel Meijer shows us how easy is it to develop, deploy and use a Raspberry PI with Windows 10 - using current Microsoft and .NET knowledge we all love.
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 19:45 - 20:00
     title: Pauze
@@ -26,7 +26,7 @@
     description: So much exciting stuff has happened with ASP.NET lately. In this session Fanie Reynders focuses specifically on MVC in ASP.NET Core, a brand new framework for the next generation of the .NET Platform, and teaches us how you can quickly get on-board using it - even your current MVC & Web API knowledge.
     videoId: naO5bU2rRFk
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 20:45 - 21:00
     title: Borrel
