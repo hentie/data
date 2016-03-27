@@ -2,8 +2,7 @@
   title: March Meetup
   description: Een gratis seminar over Windows IoT, Raspberry Pi & ASP.NET Core
   registerUrl: http://www.meetup.com/fixxup/events/228868050/
-  isCurrent: false
-  
+
   sessions:
   - timeslot: 18:45 - 19:00
     title: Aanvang
@@ -36,8 +35,7 @@
   title: May Meetup
   description: Testing & Design challenges
   registerUrl: http://www.meetup.com/fixxup/events/229221253/
-  isCurrent: true
-  
+
   sessions:
   - timeslot: 18:45 - 19:00
     title: Aanvang
