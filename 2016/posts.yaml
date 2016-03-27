@@ -4,3 +4,10 @@
   author: Marcel Meijer
   title: IoT with Windows 10
   abstract: IoT is everywhere and it will be used in more occasions; cars, houses, entertaining systems etc. There are different platforms for this, but Microsoft has started to a whole new ecosystem. In this session Marcel Meijer shows us how easy is it to develop, deploy and use a Raspberry PI with Windows 10 - using current Microsoft and .NET knowledge we all love.
+
+- date 24 mar 2016
+  sessionId: 2016.2
+  postId: mvc-in-aspnet-core
+  author: Fanie Reynders
+  title: MVC in ASP.NET Core: The new kid on the block
+  abstract: So much exciting stuff has happened with ASP.NET lately. In this session Fanie Reynders focuses specifically on MVC in ASP.NET Core, a brand new framework for the next generation of the .NET Platform, and teaches us how you can quickly get on-board using it - even your current MVC & Web API knowledge.
