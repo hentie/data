@@ -1,5 +1,6 @@
 - date: 24 Mar 2016
+  sessionId: 2016.1
   postId: iot-with-windows-10
   author: Marcel Meijer
-  title: IoT With Windows 10
+  title: IoT with Windows 10
   abstract: IoT is everywhere and it will be used in more occasions; cars, houses, entertaining systems etc. There are different platforms for this, but Microsoft has started to a whole new ecosystem. In this session Marcel Meijer shows us how easy is it to develop, deploy and use a Raspberry PI with Windows 10 - using current Microsoft and .NET knowledge we all love.
