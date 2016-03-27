@@ -37,3 +37,58 @@ Furthermore, we need to configure a command to run when everything starts up. Th
     }
 }
 ```
+
+#### Startup.cs
+The next step is to configure our dependencies and wire up the request pipline middleware. We create a new class called `Startup.cs` and add the `void ConfigureServices(...)` and `void Configure(...)` methods to it, where we configure the dependency insjection for the needed services and use them respectively. 
+
+```csharp
+using Microsoft.AspNet.Builder;
+using Microsoft.Extensions.DependencyInjection;
+
+public class Startup
+{
+    public void ConfigureServices(IServiceCollection services){
+        services
+            .AddMvcCore()
+            .AddJsonFormatters();
+    }
+    public void Configure(IApplicationBuilder app){
+        app.UseMvc();
+    }
+}
+```
+
+You will notice that we have integrated support for DI from the start, making it possible to inject host-level dependencies into our program.
+
+#### The Greet Controller
+Now that all the plumbing is done, the last thing we need to do is implement a Controller to do some work. Here we have a basic controller called `GreetController` that has two endpoints: One `GET` action that will greet the given user name, and one `POST` that will create a greeting, accepting a `GreetingDTO` data transfer object.
+
+Here we can see this class is a plain class, with no explicit dependencies on the base `Controller` class. MVC is clever enough to wire this up for us using convention.
+
+```csharp
+using Microsoft.AspNet.Mvc;
+
+[Route("[controller]")]
+public class GreetController
+{
+    [Route("{name}")]
+    public string Get(string name){
+        return $"Hello {name}";
+    }
+    
+    [HttpPost]
+    public IActionResult CreateGreeting([FromBody]GreetDTO greeting){
+        return new CreatedAtActionResult("Get","Greet", new { name = greeting.Message }, "Greeting created ya'll!");
+    }
+}
+
+public class GreetDTO
+{
+    public string Message { get; set; }
+}
+```
+
+#### That's it!
+Now all that is left to do is to take it for a spin. From Command Prompt, simply run `dnx api` and the server will start hosting on `http://localhost:5000`. 
+
+The whole talk with the slides are available above this page.
