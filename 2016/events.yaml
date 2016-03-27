@@ -35,7 +35,6 @@
   title: May Meetup
   description: Testing & Design challenges
   registerUrl: http://www.meetup.com/fixxup/events/229221253/
-  isCurrent: true
   
   sessions:
   - timeslot: 18:45 - 19:00
