@@ -108,10 +108,10 @@
     
   - id: 2016.7
     timeslot: 19:00 - 19:45
-    title: 
-    speaker: 
+    title: "ALM + Your Xamarin app: The circle of life"
+    speaker: Gerald Versluis
     videoId: 
-    description: 
+    description: Tijdens deze sessie volgen we onze app tijdens een cruciaal deel van zijn leven; het moment dat 'ie uit huis gaat. Om dit zo soepel mogelijk te doen verlopen maken we gebruik van Continuous Integration en deployment door middel van VSTS, Bitrise, TestCloud, HockeyApp en Insights.
     slidesId: 
     completed: false
 
