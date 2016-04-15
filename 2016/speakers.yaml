@@ -26,12 +26,19 @@
   imageUrl: http://reynders.co/content/images/2015/12/20150816_184719000_iOS.jpg
   bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and Microsoft Visual Studio & Development Technologies MVP
 
-- name: Ryan Fester
+- name: Gerald Versluis
   title: Software Developer
   twitter: 
   blogUrl: 
-  imageUrl: https://media.licdn.com/media/p/3/005/063/367/0d3f3a8.jpg
+  imageUrl: https://pbs.twimg.com/profile_images/510003836480528384/SK4WkpZT.png
   bio: 
+
+- name: Ryan Fester
+  title: Software Developer
+  twitter: jfversluis
+  blogUrl: http://t.co/I9AnbcmTta
+  imageUrl: https://media.licdn.com/media/p/3/005/063/367/0d3f3a8.jpg
+  bio: "Owner of Verslu.is, Software Engineer at Kembit, co-founder of Snppts, whisky drinker, web ninja, mobile #Xamarin nerd & unicornaholic"
 
 - name: Johan Welgemoed
   title: Software Developer
