@@ -27,19 +27,19 @@
   bio: A South African living in The Netherlands, Angular junkie, technology evangelist, blogger, speaker and Microsoft Visual Studio & Development Technologies MVP
 
 - name: Gerald Versluis
-  title: Software Developer
-  twitter: 
-  blogUrl: 
+  title: Software Engineer
+  twitter: jfversluis
+  blogUrl: http://gerald.verslu.is/
   imageUrl: https://pbs.twimg.com/profile_images/510003836480528384/SK4WkpZT.png
-  bio: 
+  bio: "Owner of Verslu.is, Software Engineer at Kembit, co-founder of Snppts, whisky drinker, web ninja, mobile #Xamarin nerd & unicornaholic"
 
 - name: Ryan Fester
   title: Software Developer
-  twitter: jfversluis
-  blogUrl: http://t.co/I9AnbcmTta
+  twitter: 
+  blogUrl: 
   imageUrl: https://media.licdn.com/media/p/3/005/063/367/0d3f3a8.jpg
-  bio: "Owner of Verslu.is, Software Engineer at Kembit, co-founder of Snppts, whisky drinker, web ninja, mobile #Xamarin nerd & unicornaholic"
-
+  bio: 
+  
 - name: Johan Welgemoed
   title: Software Developer
   twitter: 
