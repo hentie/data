@@ -75,10 +75,12 @@
     
   - id: 2016.5
     timeslot: 19:00 - 19:45
-    title: T.B.A.
+    title: A multi year journey of implementing MicroServices
     speaker: Pieter Joost van de Sande
     videoId: 
-    description: 
+    description: With MicroServices you try to develop a single as a suite of small services and independent services. It promises a resilient and scalable system that boosts the agility of your software development.
+
+In this talk I will share a multi year journey of implementing MicroServices. I will start by explaining what problems we tried to solve switching to a MicroServices based system. I will give concrete examples of the challenges we faced while transitioning and how we dealt with them.
     slidesId: 
     completed: false
 
