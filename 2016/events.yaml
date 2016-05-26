@@ -47,7 +47,7 @@
     videoId: "nfSnhWiUsd8"
     description: An open discussion on the different types of testing,  best practices and their place in agile methodologies and the development life cycle in general.
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 19:45 - 20:00
     title: Pauze
