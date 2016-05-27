@@ -59,7 +59,7 @@
     description: As developers, from time to time, we have to solve complex problems for our clients/customers - the good, the bad and the ugly designs we end up with do not often see the light of day. This whiteboard talk will show you some concrete problems, how their solutions were designed, why some models wouldn't have worked and others did, leaving you with insight that might help you in your next design challenges.
     videoId: "8pIGx-K19J4"
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 20:45 - 21:00
     title: Borrel
