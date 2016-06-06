@@ -46,7 +46,7 @@
     speaker: Ryan Fester
     videoId: "nfSnhWiUsd8"
     description: An open discussion on the different types of testing,  best practices and their place in agile methodologies and the development life cycle in general.
-    slidesId: 1
+    slidesId: 74ba0b5abd1049298f008a583dfb5c0c
     completed: true
 
   - timeslot: 19:45 - 20:00
@@ -58,7 +58,7 @@
     speaker: Yves Reynhout
     description: As developers, from time to time, we have to solve complex problems for our clients/customers - the good, the bad and the ugly designs we end up with do not often see the light of day. This whiteboard talk will show you some concrete problems, how their solutions were designed, why some models wouldn't have worked and others did, leaving you with insight that might help you in your next design challenges.
     videoId: "8pIGx-K19J4"
-    slidesId: 1
+    slidesId: e958b9ae64b94708ba05ca3a9a310c79
     completed: true
 
   - timeslot: 20:45 - 21:00
