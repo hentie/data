@@ -76,10 +76,10 @@
     timeslot: 19:00 - 19:45
     title: A multi year journey of implementing MicroServices
     speaker: Pieter Joost van de Sande
-    videoId: 
+    videoId: _OG2lfznVHI
     description: "With MicroServices you try to develop a single as a suite of small services and independent services. It promises a resilient and scalable system that boosts the agility of your software development. In this talk I will share a multi year journey of implementing MicroServices. I will start by explaining what problems we tried to solve switching to a MicroServices based system. I will give concrete examples of the challenges we faced while transitioning and how we dealt with them."
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 19:45 - 20:00
     title: Pauze
@@ -91,7 +91,7 @@
     description: This session is jam packed with demos showcasing what is possible when combining Microsoft Bot Framework, Skype, Facebook, Microsoft Cognative Services, a Raspberry Pi, Power Bi and of course Microsoft Azure. Bring gloves because it's coming in hot!
     videoId: 
     slidesId: 
-    completed: false
+    completed: true
 
   - timeslot: 20:45 - 21:00
     title: Borrel
