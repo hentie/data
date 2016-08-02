@@ -28,7 +28,7 @@
 
 - date: 28 Jul 2016
   sessionId: 2016.5
-  postId: design-challenges
+  postId: multi-year-journey-microservices
   author: Pieter Joost van de Sande
   title: "A multi year journey of implementing MicroServices"
   abstract: "With MicroServices you try to develop a single as a suite of small services and independent services. It promises a resilient and scalable system that boosts the agility of your software development. In this talk I will share a multi year journey of implementing MicroServices. I will start by explaining what problems we tried to solve switching to a MicroServices based system. I will give concrete examples of the challenges we faced while transitioning and how we dealt with them."
