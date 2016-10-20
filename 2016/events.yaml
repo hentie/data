@@ -96,9 +96,9 @@
   - timeslot: 20:45 - 21:00
     title: Borrel
     
-- date: 17 Nov 2016 19:00
+- date: 22 Sep 2016 19:00
   title: November Meetup
-  description: Latest trends in Online Marketing & Test Pyramide explained
+  description: SEO for Developers & Test Pyramide explained
   registerUrl: https://www.meetup.com/fixxup/events/234827775/
   
   sessions:
@@ -131,8 +131,8 @@
 
 - date: 17 Nov 2016 19:00
   title: November Meetup
-  description: T.B.A.
-  registerUrl: 
+  description: SEO for Developers & Test Pyramide explained
+  registerUrl: https://www.meetup.com/fixxup/events/234827775/
   
   sessions:
   - timeslot: 18:45 - 19:00
@@ -140,10 +140,10 @@
     
   - id: 2016.9
     timeslot: 19:00 - 19:45
-    title: 
-    speaker: 
+    title: SEO for Developers
+    speaker: Robert-Jan Kuyper
     videoId: 
-    description: 
+    description: SEO voor Developers. Tijdens deze sessie gaat Robert-Jan ons meer vertellen over de nieuwste trends in online marketing, en hoe om deze tools te gebruiken. Deelonderwerpen zijn: AMP, rich web, semantic HTML & performance. Generating business and traffic making use of the latest trends in online marketing.
     slidesId: 
     completed: false
 
@@ -152,9 +152,9 @@
     
   - id: 2016.10
     timeslot: 20:00 - 20:45
-    title: 
-    speaker: 
-    description: 
+    title: Test Pyramid explained
+    speaker: Arjon Kruisselbrink
+    description: Arjon is een test goeroe en zeer ervaren op het gebied van Functioneel en performance testen, ook de eigenaar van dé Keyword Driven Testing solution op basis van Image Based Testing, KeyLib. Hij gaat uitgebreid vertellen over de Test Pyramide.
     videoId: 
     slidesId: 
     completed: false
